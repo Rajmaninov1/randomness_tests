@@ -1,5 +1,10 @@
 # Randomness Tests
 
+- Julian Tolosa
+- Juan Pertuz
+- Fabio Ojeda
+- Elsyn Vargas
+
 ### Test Monobit
 
 Uno de los Test utilizados es el Monobit el cual es una función que recibe de parámetros una semilla, el número de pasos y el número de bits. La función crea una lista de ceros y unos aleatorios hasta igualar a la semilla ingresada, dependiendo de ciertos parámetros, se obtiene un cero y un uno.
